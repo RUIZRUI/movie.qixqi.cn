@@ -34,7 +34,7 @@ if(empty($_GET['t'])){
     <div class="app-sidebar__overlay" data-toggle="sidebar"></div>
     <aside class="app-sidebar">
         <div class="app-sidebar__user">
-            <img class="app-sidebar__user-avatar" src="https://s3.amazonaws.com/uifaces/faces/twitter/jsa/48.jpg" alt="User Image">
+            <img class="app-sidebar__user-avatar" src="https://cdn.jsdelivr.net/gh/QIXQI/image-hosting@master/movie/SLPxtIwr_400x400.4tpgqg6jadc0.jpg" alt="User Image">
             <div>
                 <p class="app-sidebar__user-name">Admin</p>
                 <p class="app-sidebar__user-designation">欢迎回来管理员！</p>
@@ -52,12 +52,6 @@ if(empty($_GET['t'])){
                 <a class="app-menu__item" href="webset.php">
                     <i class="app-menu__icon fa fa-laptop"></i>
                     <span class="app-menu__label">网站设置</span>
-                </a>
-            </li>
-              <li>
-                <a class="app-menu__item" href="https://www.x6d.com/">
-                    <i class="app-menu__icon fa fa-laptop"></i>
-                    <span class="app-menu__label">小刀娱乐网</span>
                 </a>
             </li>
 
@@ -190,7 +184,7 @@ if(empty($_GET['t'])){
                         </tr>
                          <tr>
                             <td>网址发布页</td>
-                            <td> <a href="http://www.xiaodao.biz/" target="_blank">小刀娱乐网</a></td>
+                            <td> <a href="https://www.qixqi.cn/" target="_blank">QIXQI</a></td>
                         </tr>
                        
                     </tbody>
