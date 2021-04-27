@@ -34,7 +34,7 @@ if(empty($_GET['t'])){
     <div class="app-sidebar__overlay" data-toggle="sidebar"></div>
     <aside class="app-sidebar">
         <div class="app-sidebar__user">
-            <img class="app-sidebar__user-avatar" src="https://cdn.jsdelivr.net/gh/QIXQI/image-hosting@master/movie/SLPxtIwr_400x400.4tpgqg6jadc0.jpg" alt="User Image">
+            <img class="app-sidebar__user-avatar" height="40" width="40" src="https://cdn.jsdelivr.net/gh/QIXQI/image-hosting@master/movie/SLPxtIwr_400x400.4tpgqg6jadc0.jpg" alt="User Image">
             <div>
                 <p class="app-sidebar__user-name">Admin</p>
                 <p class="app-sidebar__user-designation">欢迎回来管理员！</p>
