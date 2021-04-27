@@ -130,7 +130,7 @@ file_put_contents("./style/clog.php",$arr);
 <?php echo $ps; ?>
 <div id="box">
 <div id="top"></div>
-<iframe id="video" width="100%" height="100%" src="<?php echo $dz;?>" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no" ></iframe>
+<iframe id="video" width="100%" height="100%" allowtransparency="true" allowfullscreen="true" src="<?php echo $dz;?>" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no" ></iframe>
 <div id="bot"></div>
 <div id="rig"></div>
 <div id="btm"></div>
