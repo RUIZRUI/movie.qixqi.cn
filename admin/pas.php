@@ -1,5 +1,5 @@
 <?php
  $aik =  array (
-  'passwd' => '123456',
+  'passwd' => '991214',
 );
 ?>
