@@ -1,7 +1,7 @@
        <div class="row">
             <div class="col-md-12">
                 <div class="tile" style="margin-bottom: 0px;">
-                    <div class="tile-body"><a href="http://www.xiaodao.biz/" target="_blank">© 2020 BY:觅鹿</a></div>
+                    <div class="tile-body"><a href="https://www.qixqi.cn/" target="_blank">© 2020 BY:觅鹿</a></div>
                 </div>
             </div>
         </div>
