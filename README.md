@@ -1,4 +1,7 @@
 ## 视频解析
+
+### 效果：[https://qixqi.cn/movie/](https://qixqi.cn/movie/)
+
 ### 影视解析系统：[https://ruodanglaishi.xyz/](https://ruodanglaishi.xyz/)(已挂)
 
 ### 目前可用解析接口
